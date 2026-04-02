@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Sk8er Boi",
+  "base_artist": "Avril Lavigne",
+  "createdAt": "2026-04-02T15:20:39.672399Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sk8er Boi",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/01_Sk8er_Boi_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sk8er boi",
+      "artist": "Cascada",
+      "has_synced": false,
+      "path": "select/02_Sk8er_boi_Cascada.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sk8er Boi",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/03_Sk8er_Boi_Cascada.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sk8er Boi",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Annie Goodchild",
+      "has_synced": true,
+      "path": "select/04_Sk8er_Boi_Scott_Bradlee's_Postmodern_Jukebox_feat._Annie_Goodchild.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sk8er Boi",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/05_Sk8er_Boi_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sk8er Boi",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/06_Sk8er_Boi_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sk8er Boi",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/07_Sk8er_Boi_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sk8er Boi (TV track version)",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/08_Sk8er_Boi_(TV_track_version)_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sk8er Boi (demo)",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/09_Sk8er_Boi_(demo)_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sk8er Boi (Live Acoustic Version)",
+      "artist": "Avril Lavigne",
+      "has_synced": false,
+      "path": "select/10_Sk8er_Boi_(Live_Acoustic_Version)_Avril_Lavigne.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sk8er Boi (live acoustic version)",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/11_Sk8er_Boi_(live_acoustic_version)_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sk8er Boi - Live",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/12_Sk8er_Boi_-_Live_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sk8er Boi (live)",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/13_Sk8er_Boi_(live)_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sk8er Boi (live)",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/14_Sk8er_Boi_(live)_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sk8er Boi (Live at The Point, Dublin, Ireland - March 2003)",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/15_Sk8er_Boi_(Live_at_The_Point,_Dublin,_Ireland_-_March_2003)_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sk8er Boi",
+      "artist": "First to Eleven",
+      "has_synced": true,
+      "path": "select/16_Sk8er_Boi_First_to_Eleven.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sk8er Boi",
+      "artist": "Avril Lavigne",
+      "has_synced": false,
+      "path": "select/pl_01_Sk8er_Boi_Avril_Lavigne.txt"
+    }
+  ]
+}
